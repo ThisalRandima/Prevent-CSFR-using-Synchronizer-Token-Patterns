@@ -1,0 +1,1 @@
+# Prevent-CSFR-using-Synchronizer-Token-Patterns
